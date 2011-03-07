@@ -1,0 +1,5 @@
+alias psg='ps ax | grep'
+alias hsg='history | grep'
+alias la='ls -la -alG'
+alias gvim='/Applications/MacVim.app/Contents/MacOS/Vim -g'
+alias b='bundle exec'
